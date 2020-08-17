@@ -22,7 +22,7 @@ $url = 'http://127.0.0.1:58913/api/'.$q;
 $username = 'ADM2hYgsXkhH6hH48e8gSXd4cRY=';
 
 //Your password.
-$password = 'W3mQTSv2OEWwPqaVnCTuPc8ta5x0PcEx';
+$password = '***************************';
 
 //Initiate cURL.
 $ch = curl_init($url);
