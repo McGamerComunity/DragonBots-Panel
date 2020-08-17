@@ -4,3 +4,5 @@ the api wich is used is an inpiration of the api from the ts3audiobot included i
 the backend and all .php files are selfwritten and took about 7days to finish.
 the c# ts3musicbot took about 1 week to write because the mainbackend is forked from ts3audiobot.
 complete selfwritten parts of this resposity are all .php files.
+a livepreview for this website is avialable here: https://dragon-host.ddns.net/bots/login.php.
+for testing a login user is: "testing@dragon-host.eu" password: "UFp6HBvtS3YGJBV"
